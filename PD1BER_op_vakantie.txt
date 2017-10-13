@@ -1,0 +1,6 @@
+<item>
+<title>dia voorsteling vakantie texel 2017</title>
+<utube>UQpsFmjoDJw</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>

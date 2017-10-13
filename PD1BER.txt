@@ -1,0 +1,104 @@
+<item>
+<title>Radio NL zomer toer in Apeldoorn 20-08-2017 dia voorstelling</title>
+<utube>zm15Uya71GM</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Welkom bij PD1BER TV paarden 4 daagse epe 16-06-2017 1</title>
+<utube>9gKnGMGlQX4</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Welkom bij PD1BER TV paarden 4 daagse epe 16-06-2017 2</title>
+<utube>DUmAbPQ_MQ&t=11s</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Welkom bij PD1BER TV paarden 4 daagse epe 16-06-2017 3</title>
+<utube>yuO6eb2szNs</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Welkom bij PD1BER TV / HET UITZICHT VAN UIT MIJN HUIS TE UGCHELEN</title>
+<utube>Z4bwJGBv7Ow</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>TEST FILM  OP DE FIETS VAN UGCHELEN NAAR APELDOORN 11-08-2016</title>
+<utube>wrW_LwOmM8s</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>ik aan het werk in de radio studio van radio gs met het programma herrie met berry</title>
+<utube>Ec70QOqfhB4</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>fotos uit Vaassen</title>
+<utube>VhzsBNUXXHg</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>het huisje bij de brug van Opa en Oma van den Berg Vaassen Deventerstraat</title>
+<utube>xrc-fS-Sk28</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>test beeld pd1ber radio lov tv radio lov de lokale omroep vaassen bluegrass radio nederland</title>
+<utube>5d8etdxn4uc</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>test beeld wilhelmus voor afsluiting.wmv</title>
+<utube>BGri8Vm19Is</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>RADIO LOV BERRY VAN DEN BERG PRODUCTION</title>
+<utube>6aKgkKFZuqk</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>RADIO STUITERBAL ROY 3D VOOR VOOR DE FILM</title>
+<utube>9EK_ndby83M</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>RADIO LOV BERRY VAN DEN BERG PRODUCTION 1</title>
+<utube>LWVz2BoJZ7I</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>testbeeld van PA-10398 radio l.o.v. tv</title>
+<utube>H5hpPcert7Y</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>

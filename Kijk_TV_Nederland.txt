@@ -1,0 +1,34 @@
+<item>
+<title>Ilse's Veranda met Ellen ten Damme aflevering 5 Kijk TV Nederland</title>
+<utube>l3lSj4vWoWg</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Ilse's Veranda met Douwe Bob Kijk aflevering 4 TV Nederland</title>
+<utube>gALeGIkhRzE</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Ilse's Veranda met Marc Marie Huijbregts aflevering 3 Kijk TV Nederland</title>
+<utube>RcLE7bZC6T0</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Ilse's Veranda met Barry Hay aflevering 2 Kijk TV Nederland</title>
+<utube>O0B9EPfGvkw</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>Ilse's Veranda met Guus Meeuwis aflevering 1 Kijk TV Nederland</title>
+<utube>k03lLqcl9Es</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>

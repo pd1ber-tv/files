@@ -1,0 +1,27 @@
+<item>
+<title>PD1BER tv YouTube channel met unboxen en reviewen van elektronica producten</title>
+<utube>zZXRp18gymM</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>welkom bij pd1ber tv aliexpress.com weggevertjes freebies uit leg vlog 002</title>
+<utube>QJSJg3IyafA</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>PD1BER TV : bloopers video van alles liep vast en werkte tegen aliexpress.com weggevertjes 001</title>
+<utube>GGnhqq8aRz4</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>
+
+<item>
+<title>wat moet ik doen om beroemd te worden of te blijven ?</title>
+<utube>8hLB1Pshr_M</utube>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+</item>

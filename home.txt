@@ -1,0 +1,35 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>PD1BER TV ON Youtube</name>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<externallink>http://pd1bertv.000webhostapp.com/files/file/PD1BER_TV.txt</externallink>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+<info>http://pd1ber.tk</info>
+</channel>
+
+<channel>
+<name>PD1BER</name>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<externallink>http://pd1bertv.000webhostapp.com/files/file/PD1BER.txt</externallink>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+<info>http://pd1ber.tk</info>
+</channel>
+
+<channel>
+<name>PD1BER op vakantie video's</name>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<externallink>http://pd1bertv.000webhostapp.com/files/file/PD1BER_op_vakantie.txt</externallink>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+<info>http://pd1ber.tk</info>
+</channel>
+
+<channel>
+<name>Kijk TV nederland</name>
+<thumbnail>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_2.png</thumbnail>
+<externallink>https://pd1bertv.000webhostapp.com/files/file/Kijk_TV_Nederland.txt</externallink>
+<fanart>http://pd1bertv.000webhostapp.com/files/pics/PD1BER_ON_YOUTUBE_SAMSUNG.jpg</fanart>
+<info>http://pd1ber.tk</info>
+</channel>
+</channels>
